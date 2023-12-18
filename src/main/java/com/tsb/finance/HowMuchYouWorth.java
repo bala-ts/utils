@@ -12,7 +12,7 @@ public class HowMuchYouWorth {
 		int noOfDays = 365;
 		ctc = ctc * 100000;
 		int leaves = 12 + 22;
-		int holidays = 13;
+		int holidays = 10;
 		int weekends = 52 * 2;
 		float workHours = 9;
 		int workingDays = noOfDays - leaves - holidays - weekends;

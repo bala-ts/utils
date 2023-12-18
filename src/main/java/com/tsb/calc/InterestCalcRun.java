@@ -39,10 +39,9 @@ public class InterestCalcRun {
 		
 		//ic.calculateRD();
 	
+		
+		//findProfit(file,0);
 	}
-	
-	//5776421 - 
-	
 
 	
 	static void rent(float amountInL) {
