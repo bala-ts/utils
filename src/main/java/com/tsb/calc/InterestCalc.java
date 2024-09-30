@@ -43,6 +43,14 @@ public class InterestCalc {
 
 		return calculateCI(p, t, r, 1); // default as yearly
 	}
+	
+	public double calculateCI(float p, String purchaseDate, String endDate, double r) {
+
+		float t = DateUtil.yearsDiff(purchaseDate, endDate);
+		System.out.println("Years : " + t);
+
+		return calculateCI(p, t, r, 1); // default as yearly
+	}
 
 	public double findCI(float p, int finalAmount, float t, int n) {
 		double amount = 0, r = 0, prevR = -1;

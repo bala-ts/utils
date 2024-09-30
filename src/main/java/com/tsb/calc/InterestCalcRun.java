@@ -4,7 +4,7 @@ import com.tsb.util.NumUtil;
 
 public class InterestCalcRun {
 	static final int  TERMS = 5;
-	static final float PO = 6.7f;
+	static final float PO = 6.8f;
 	static final float ROI = PO;
 	
 	
@@ -23,13 +23,15 @@ public class InterestCalcRun {
 		
 	
 		//Calculate profift after sold
-		System.out.println(ic.findCI(19.5f * L, 33 * L, 9.5f, 1));
+		//System.out.println(ic.findCI(19.5f * L, 33 * L, 9.5f, 1)); //5.7
 		
 	
 		 //formatAmount(ic.calculateCI(12*L, 12, ROI));
 		
 		//Ground Padapai1 , 9/2022 30L
-		NumUtil.formatAmount(ic.calculateCI(15.5f * L, "2012-09-11", ROI));
+		NumUtil.formatAmount(ic.calculateCI(1549800, "2012-09-11", ROI));
+		//NumUtil.formatAmount(ic.calculateCI(1549800, "2012-09-11","2024-05-01", ROI));
+		//NumUtil.formatAmount(ic.calculateCI(1549800, "2012-09-11", "2024-06-01",ROI));
 	
 		
 		//Ground Padapai2, 9/2022 35.64L

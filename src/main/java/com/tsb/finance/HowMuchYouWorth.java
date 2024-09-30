@@ -5,7 +5,7 @@ import java.text.DecimalFormat;
 public class HowMuchYouWorth {
 
 	public static void main(String s[]) {
-		printworth(36.45);
+		printworth(40.2);
 	}
 
 	public static void printworth(double ctc) {
@@ -14,7 +14,7 @@ public class HowMuchYouWorth {
 		int leaves = 12 + 22;
 		int holidays = 10;
 		int weekends = 52 * 2;
-		float workHours = 9;
+		float workHours = 10;
 		int workingDays = noOfDays - leaves - holidays - weekends;
 		double workingHours = workingDays * workHours;
 		double perDay = ctc / workingDays;
