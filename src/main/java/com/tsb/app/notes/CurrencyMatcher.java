@@ -4,19 +4,35 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 public class CurrencyMatcher {
 	
 	public static void main(String s[]) {
 
 		CurrencyMatcher cm = new CurrencyMatcher();
-		cm.run();
+		cm.match();
+		//cm.match("080180");
 	}
 
-	public void run() {
+	public void match() {
+		match(null);
 	
-		ArrayList<String> currencyddmm = loadFileToArrayList("resources/currency-ddmm.txt");
-		ArrayList<String> currencymmdd = loadFileToArrayList("resources/currency-mmdd.txt");
+	}
+	
+	public void match(String sno) {
+		 List<String> currencyddmm;
+		 
+		 List<String> currencymmdd;
+		if (sno == null) {
+			 currencyddmm = loadFileToArrayList("resources/currency-ddmm.txt");
+			 currencymmdd = loadFileToArrayList("resources/currency-mmdd.txt");
+		} else {
+			 currencyddmm = new ArrayList<>(Arrays.asList(sno));
+			 currencymmdd = new ArrayList<>(Arrays.asList(sno));
+		}
+			
 		ArrayList<String> dates = loadFileToArrayList("resources/dates.txt");
         // Print the lines (Optional)
 		String date=null;
@@ -27,19 +43,21 @@ public class CurrencyMatcher {
         		System.out.println(line);   	
         }
         
-        System.out.println("mmddyy");
+        System.out.println("\nmmddyy");
         for (String line : dates) { 	
         	date = getDate(line);
         	date = convertDate(date);
         	if (currencymmdd.contains(date)) 
-        		System.out.println(line);
+        		System.out.println(line + " : " + date);
         }
 	}
 	
 
 	private String getDate(String line) {
-		String s[] = line.split(" - ");
-		return (s.length == 2) ? s[1] : "";
+		line = line.trim();
+		line = line.substring(line.length()-6);
+		//System.out.println(line);
+		return line;
 		
 	}
 	
@@ -67,13 +85,26 @@ public class CurrencyMatcher {
 
 }
 
-
-
-//ArrayList<String> temp = loadFileToArrayList("resources/temp.txt");
-//String s;
-// for (String t : temp) { 
-//	 //s = t.replace("/", "").replace(".", "").replace("-", "");
-//	
-//	 System.out.println( t.substring(0, 7));
-// }
 //
+//private  void process() {
+//	ArrayList<String> temp = loadFileToArrayList("resources/temp.txt");
+//
+//	String  o;
+//	 for (String t : temp) { 
+//		 t = t.trim();
+//		 o = t;
+//		 if (t .contains("/")) {
+//			 t = t.replace("/","");
+//			
+//			t = convertDate(t);
+//		 } else {
+//			 t = t.replace("-", "").replace(".", "");
+//			 if (t.length() == 10)
+//					 t = t.substring(0, 5) + t.substring(8);
+//		 }
+//		 
+//		 
+//		 
+//		 System.out.println( " - " +  t);
+//	 }
+//}
