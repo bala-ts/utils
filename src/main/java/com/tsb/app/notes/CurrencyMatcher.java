@@ -3,19 +3,48 @@ package com.tsb.app.notes;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 public class CurrencyMatcher {
 	
+	private static String DATES = "resources/dates.txt";
+	private static DateTimeFormatter DATE_FORMATTER = DateTimeFormatter.ofPattern("ddMMyy");
+	
 	public static void main(String s[]) {
 
 		CurrencyMatcher cm = new CurrencyMatcher();
 		cm.match();
 		//cm.match("080180");
+//		cm.sort();
+	}
+	
+	private LocalDate getFormatedDate(String s) {
+		LocalDate date = null;
+		try {
+			 date = LocalDate.parse(s, DATE_FORMATTER);
+			return date;
+		} catch (Exception e ) {
+			System.out.print(s+" ");
+		}
+		return date;
 	}
 
+	public void sort() {
+		
+		List<String> lines = loadFileToArrayList(DATES);
+        // Convert the strings to LocalDate objects
+        List<LocalDate> dates = new ArrayList<>();
+        for (String line : lines) {
+        	LocalDate date = getFormatedDate(getDate(line));
+        	dates.add(date);
+        	System.out.println(date);
+        }
+		
+	}
 	public void match() {
 		match(null);
 	
@@ -33,7 +62,7 @@ public class CurrencyMatcher {
 			 currencymmdd = new ArrayList<>(Arrays.asList(sno));
 		}
 			
-		ArrayList<String> dates = loadFileToArrayList("resources/dates.txt");
+		ArrayList<String> dates = loadFileToArrayList(DATES);
         // Print the lines (Optional)
 		String date=null;
 		System.out.println("ddmmyy");
