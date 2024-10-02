@@ -9,17 +9,40 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
+import com.tsb.html.WebpageReader;
+
 public class CurrencyMatcher {
 	
 	private static String DATES = "resources/dates.txt";
 	private static DateTimeFormatter DATE_FORMATTER = DateTimeFormatter.ofPattern("ddMMyy");
-	
+	private static String DDMM = "resources/currency-ddmm.txt";
+	private static String MMDD = "resources/currency-mmdd.txt";
 	public static void main(String s[]) {
 
 		CurrencyMatcher cm = new CurrencyMatcher();
-		cm.match();
+		//cm.match();
 		//cm.match("080180");
 //		cm.sort();
+//		cm.searchddmm();
+		cm.searchmmdd();
+	}
+	
+	private void searchddmm() {
+		WebpageReader wr = new WebpageReader();
+		ArrayList<String> dates = loadFileToArrayList(DDMM);
+		 for (String date : dates) { 
+			 if (date.length() == 6) wr.search(date);
+					 
+		 }
+	}
+	
+	private void searchmmdd() {
+		WebpageReader wr = new WebpageReader();
+		ArrayList<String> dates = loadFileToArrayList(MMDD);
+		 for (String date : dates) { 
+			 if (date.length() == 6) wr.search(convertDate(date));
+					 
+		 }
 	}
 	
 	private LocalDate getFormatedDate(String s) {
@@ -43,6 +66,8 @@ public class CurrencyMatcher {
         	dates.add(date);
         	System.out.println(date);
         }
+        
+        
 		
 	}
 	public void match() {
@@ -55,8 +80,8 @@ public class CurrencyMatcher {
 		 
 		 List<String> currencymmdd;
 		if (sno == null) {
-			 currencyddmm = loadFileToArrayList("resources/currency-ddmm.txt");
-			 currencymmdd = loadFileToArrayList("resources/currency-mmdd.txt");
+			 currencyddmm = loadFileToArrayList(DDMM);
+			 currencymmdd = loadFileToArrayList(MMDD);
 		} else {
 			 currencyddmm = new ArrayList<>(Arrays.asList(sno));
 			 currencymmdd = new ArrayList<>(Arrays.asList(sno));

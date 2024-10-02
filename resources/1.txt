@@ -1,0 +1,1935 @@
+ 
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Famous People's 🎂 Birthdays, May 14, India Celebrity Birthdays </title>
+    <meta name="description" content="🎂 Birthdays of Famous People  / Celebrity, on May 14, Born in (or Nationality) India. Browse famous birthdays sorted by profession, birth place and birth region.">
+    <meta property="fb:admins" content="1066402811" />
+ <!-- twitter card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Famous People's 🎂 Birthdays, May 14, India Celebrity Birthdays ">
+<meta name="twitter:description" content="🎂 Birthdays of Famous People  / Celebrity, on May 14, Born in (or Nationality) India. Browse famous birthdays sorted by profession, birth place and birth region.">
+<meta name="twitter:image" content="http://www.bornglorious.com/images/screenshot.png">
+<link rel="image_src" href="../images/screenshot.png" />
+
+<!-- favicon -->
+<link rel="icon" type="image/png" href="/favicon.png?v=2">
+<meta name="theme-color" content="#ffffff">
+<!-- favicon end -->
+
+    <!-- Bootstrap -->
+    <link href="/bootstrap-3.3.7-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/jquery-ui-1.12.1.custom/jquery-ui.min.css" rel="stylesheet" type="text/css" />
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
+    <script src="https://apis.google.com/js/platform.js" async defer></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+    <script src="/jquery-ui-1.12.1.custom/jquery-ui.min.js" type="text/javascript" ></script>
+    <!-- Bootstrap Notify -->
+    <!-- script src="/bootstrap-notify-3.1.3/dist/bootstrap-notify.min.js"></script> -->
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-350192-15"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-350192-15');
+</script>
+    <style>
+    .ui-datepicker select.ui-datepicker-month,
+.ui-datepicker select.ui-datepicker-year {
+    color:#333!important;
+}
+    </style>
+ <style>
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  font-size:1.2em;
+  background-color: green;
+  color: white;
+  padding:10px 10px 10px 10px;
+}
+.arrow{
+    width:24px;
+    height:24px;
+    margin-top:-4px;
+}
+  .ui-autocomplete-loading {
+    background: white url('/images/ajax-loader.gif') right center no-repeat;
+  }
+  .ui-menu{
+      z-index:1001;
+  }
+    .bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    }
+
+    @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+      }
+</style>
+<!--Social Buttons -->
+<style>
+    .button {
+        text-align: center;
+        display: inline-block;
+        height: 20px;
+        line-height: 20px;
+        padding-right: 5px;
+        padding-left: 25px;
+        position: relative;
+        background-color: rgb(0,0,0);
+        color: rgb(255,255,255);
+        text-decoration: none;
+        text-transform: none;
+        letter-spacing: 1px;
+        margin-bottom: 2px;
+        text-shadow: 1px 1px 0px rgba(0,0,0,0.5);
+        -webkit-border-radius: 5px;
+        -moz-border-radius: 5px;
+        border-radius: 5px;
+    }
+
+.button:hover{
+  text-decoration: none;
+  color: #fff;
+  text-shadow: none;
+}
+
+.button p{font-size: 10px;}
+.button span {
+  position: absolute;
+  left: 0;
+  width: 20px;
+  font-size:10px;
+  
+border-right: 1px solid  rgba(0,0,0,0.15);
+    text-decoration: none;
+}
+
+.button.twitter {
+  background: #00acee;
+}
+
+.button.facebook {
+ background: #3b5998;
+}
+
+.button.instagram{
+  background: #3f729b;
+}
+
+.text-center{
+  text-align: center;
+}
+
+</style>
+    
+        
+    <script data-ad-client="ca-pub-6549306531419697" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    
+</head>
+<body style="background-color:#eeeeee;">
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v5.0"></script>
+<nav class="navbar navbar-inverse navbar-static-top" >
+      <div class="container-fluid" style="box-shadow: 0px 6px 4px #aaaaaa;">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          
+          <a class="navbar-brand" style="padding-top:0px;padding-bottom:0px;" href="/">
+          <img class="img-responsive" style="height:36px;padding-top:4px;" src="/images/golden_logo.png"/></a>
+        </div>
+
+          <form class="navbar-form navbar-left" style="min-width:25%;">
+        <div class="form-group" style="width:100%;">
+         <input type="text" class="form-control" style="width:100%;" id="psearch" placeholder="Search Celebrity, India">
+         </div>
+      
+    </form>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="#" data-toggle="modal" data-target="#countryModal">Select Country</a></li>
+            <li><a href="#" data-toggle="modal" data-target="#datePickerModal">Select Date or Period</a></li>
+            <li><a href="https://www.tweeplers.com">Trending Twitter Users</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <div class="container" style="padding-left:0px;padding-right:0px;">
+    <div class="row">
+      <div class="col-md-12">
+
+      <div class="panel panel-primary" >
+          <div class="panel-heading" >
+          <h3 class="panel-title" style="padding-bottom:10px;">
+          <b>Famous People's 🎂 Birthdays, May 14, India Celebrity Birthdays </b>
+          </h3>
+              <a class="twitter-share-button" href="https%3a%2f%2fwww.bornglorious.com%2findia%2fbirthday%2f%3fpd%3d0514">Tweet</a>&nbsp;&nbsp;&nbsp;&nbsp;
+              <iframe src="https://www.facebook.com/plugins/like.php?href=https%3a%2f%2fwww.bornglorious.com%2findia%2fbirthday%2f%3fpd%3d0514&layout=button_count"
+                scrolling="no" frameborder="0" allowTransparency="true"
+                style="border:none; width:85px; height:20px; color:White;"></iframe>
+</div>
+<div class="panel-body">
+    <div class="row" style="background-color:#eeeeee;margin-top:-20px;padding-bottom:6px;padding-top:6px;">
+          <div class="col-md-12">
+              <a href="javascript:" data-toggle="modal" data-target="#countryModal" ><span style="font-size:1.2em;color:#337ab7;font-weight:bold;"><img src="/images/flags/IN.png">&nbsp;India&nbsp;<img style="width:18px;height:18px;" src="/images/dropdown.png"></span></a> | 
+              <a href="javascript:" data-toggle="modal" data-target="#datePickerModal" ><span style="font-size:1.2em;color:#337ab7;font-weight:bold;">May 14&nbsp;<img style="width:18px;height:18px;" src="/images/dropdown.png"></span></a> | 
+              <span style="padding-right:5px;margin-top:-4px;">Sort By: 
+                                <select onchange="sortSelected(this);">
+                            	
+                            	<option value="pp" >Popularity</option>
+                            	<option value="yd" >Birth Year (new to old)</option>
+                            	<option value="ya" >Birth Year (old to new)</option>
+                            	
+                            	 </select>
+                            	 </span>
+          </div>
+        </div>
+    <div class="row" style="background-color:#eeeeee;padding-bottom:6px;padding-top:6px;">
+        <div class="col-md-12">
+            <a class="btn btn-warning" href="#profession" ><b>Profession</b></a>
+            <a class="btn btn-warning" href="#region" ><b>Birth Region</b></a>
+            <a class="btn btn-warning" href="#place" ><b>Birth Place</b></a>
+            <a class="btn btn-info" href="https://www.bornglorious.com/world/birthday/?pd=today" ><b>👉 Worldwide Celebrity Birthdays Today</b></a>
+          </div>
+      </div>  
+    <div class="row" style="padding-bottom:15px;padding-top:15px;">
+        <div class="col-md-12" style="text-align:center;font-weight:bold;">
+                                
+                            	[Total 60 People]<br />
+                            	   
+                                    Page: 1 of 20
+                                    
+                                	<a class="btn btn-warning" href="https://www.bornglorious.com/india/birthday/?pd=0514&pg=2"><b>Next &gt;</b></a>
+                                	
+                                   
+                                </div>
+    </div>
+      
+                    <div class="row">
+                    
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">1</span>
+                        <a href="/person/?pi=30716445"><b>Manushi Chhillar</b></a> <a title="About Manushi Chhillar" href="/person/?pi=30716445"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=30716445" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/newthumbs/30/71/30716445.jpg')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1997</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>Sonipat</b></span>
+                                
+                                <br />
+                                <a href="https://twitter.com/ManushiChhillar" target="_blank" class="button twitter"><span><i class="fa fa-twitter" aria-hidden="true"></i></i></span><p>ManushiChhillar</p></a>
+                                
+                                <br />
+                                <a href="https://facebook.com/manushichhillarofficial" target="_blank" class="button facebook"><span><i class="fa fa-facebook" aria-hidden="true"></i></span><p>manushichhillarofficial</p></a>
+                                
+                                <br />
+                                <a href="https://www.instagram.com/manushi_chhillar" target="_blank" class="button instagram"><span><i class="fa fa-instagram" aria-hidden="true"></i></span><p>manushi_chhillar</p></a>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />Miss World 2017</div>
+                        </div>
+                    </div>
+
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">2</span>
+                        <a href="/person/?pi=2737041"><b>Sambhaji</b></a> <a title="About Sambhaji" href="/person/?pi=2737041"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=2737041" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/newthumbs/27/37/2737041.png')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1657</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>Purandar fort</b></span>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />eldest son of Chhatrapati Shivaji and 2nd Chhatrapati of the Maratha Empire</div>
+                        </div>
+                    </div>
+
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">3</span>
+                        <a href="/person/?pi=465859"><b>Waheeda Rehman</b></a> <a title="About Waheeda Rehman" href="/person/?pi=465859"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=465859" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/newthumbs/46/58/465859.jpg')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1938</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>Chengalpattu</b></span>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />Indian actress</div>
+                        </div>
+                    </div>
+
+                </div>
+                    
+                    <div class="row">
+                    
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">4</span>
+                        <a href="/person/?pi=6727547"><b>Madhuurima</b></a> <a title="About Madhuurima" href="/person/?pi=6727547"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=6727547" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/newthumbs/67/27/6727547.jpg')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1984</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>Mumbai</b></span>
+                                
+                                <br />
+                                <a href="https://facebook.com/Madhuurima" target="_blank" class="button facebook"><span><i class="fa fa-facebook" aria-hidden="true"></i></span><p>Madhuurima</p></a>
+                                
+                                <br />
+                                <a href="https://www.instagram.com/madhurima_banerjee" target="_blank" class="button instagram"><span><i class="fa fa-instagram" aria-hidden="true"></i></span><p>madhurima_banerjee</p></a>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />actress</div>
+                        </div>
+                    </div>
+
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">5</span>
+                        <a href="/person/?pi=7396741"><b>Sachin Khedekar</b></a> <a title="About Sachin Khedekar" href="/person/?pi=7396741"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=7396741" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/newthumbs/73/96/7396741.jpg')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1965</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>Mumbai</b></span>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />Indian actor</div>
+                        </div>
+                    </div>
+
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">6</span>
+                        <a href="/person/?pi=2722796"><b>Pranav Mistry</b></a> <a title="About Pranav Mistry" href="/person/?pi=2722796"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=2722796" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/newthumbs/27/22/2722796.jpg')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1981</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>Palanpur</b></span>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />Indian computer scientist</div>
+                        </div>
+                    </div>
+
+                </div>
+                    
+                    <div class="row">
+                    
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">7</span>
+                        <a href="/person/?pi=982809"><b>Mrinal Sen</b></a> <a title="About Mrinal Sen" href="/person/?pi=982809"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=982809" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/newthumbs/98/28/982809.jpg')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1923</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>Faridpur Municipality</b></span>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />Indian film director</div>
+                        </div>
+                    </div>
+
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">8</span>
+                        <a href="/person/?pi=16832128"><b>Lavina Tandon</b></a> <a title="About Lavina Tandon" href="/person/?pi=16832128"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=16832128" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/newthumbs/16/83/16832128.jpg')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1991</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>Ludhiana</b></span>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />Indian actress</div>
+                        </div>
+                    </div>
+
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">9</span>
+                        <a href="/person/?pi=281268"><b>Bob Woolmer</b></a> <a title="About Bob Woolmer" href="/person/?pi=281268"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=281268" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/newthumbs/28/12/281268.JPG')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1948</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>Kanpur</b></span>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />English cricket player</div>
+                        </div>
+                    </div>
+
+                </div>
+                    
+                    <div class="row">
+                    
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">10</span>
+                        <a href="/person/?pi=7915915"><b>Varinder Singh Ghuman</b></a> <a title="About Varinder Singh Ghuman" href="/person/?pi=7915915"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=7915915" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/nothumb/?nm=Varinder Singh Ghuman')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1972</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>Gurdaspur</b></span>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />bodybuilder</div>
+                        </div>
+                    </div>
+
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">11</span>
+                        <a href="/person/?pi=4692313"><b>Agha Hasan Abedi</b></a> <a title="About Agha Hasan Abedi" href="/person/?pi=4692313"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=4692313" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/nothumb/?nm=Agha Hasan Abedi')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1922</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>Lucknow</b></span>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />Pakistani banker</div>
+                        </div>
+                    </div>
+
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">12</span>
+                        <a href="/person/?pi=20649813"><b>Rajesh Murugesan</b></a> <a title="About Rajesh Murugesan" href="/person/?pi=20649813"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=20649813" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/newthumbs/20/64/20649813.jpg')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1988</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>Kochi</b></span>
+                                
+                                <br />
+                                <a href="https://facebook.com/Rajesh.Murughesan" target="_blank" class="button facebook"><span><i class="fa fa-facebook" aria-hidden="true"></i></span><p>Rajesh.Murughesan</p></a>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" /></div>
+                        </div>
+                    </div>
+
+                </div>
+                    
+                    <div class="row">
+                    
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">13</span>
+                        <a href="/person/?pi=5512205"><b>G. Dhananjayan</b></a> <a title="About G. Dhananjayan" href="/person/?pi=5512205"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=5512205" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/newthumbs/55/12/5512205.jpg')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1965</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>Chennai</b></span>
+                                
+                                <br />
+                                <a href="https://twitter.com/Dhananjayang" target="_blank" class="button twitter"><span><i class="fa fa-twitter" aria-hidden="true"></i></i></span><p>Dhananjayang</p></a>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />Indian film producer</div>
+                        </div>
+                    </div>
+
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">14</span>
+                        <a href="/person/?pi=60675363"><b>Sanjiv Khanna</b></a> <a title="About Sanjiv Khanna" href="/person/?pi=60675363"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=60675363" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/newthumbs/60/67/60675363.jpg')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1960</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>New Delhi</b></span>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" /></div>
+                        </div>
+                    </div>
+
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">15</span>
+                        <a href="/person/?pi=4730267"><b>Alladi Krishnaswamy Iyer</b></a> <a title="About Alladi Krishnaswamy Iyer" href="/person/?pi=4730267"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=4730267" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/newthumbs/47/30/4730267.jpg')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1883</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>Sri Potti Sri Ramulu Nellore district</b></span>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />Indian politician</div>
+                        </div>
+                    </div>
+
+                </div>
+                    
+                    <div class="row">
+                    
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">16</span>
+                        <a href="/person/?pi=16773178"><b>H. Boniface Prabhu</b></a> <a title="About H. Boniface Prabhu" href="/person/?pi=16773178"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=16773178" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/nothumb/?nm=H. Boniface Prabhu')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1972</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>Bangalore</b></span>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />wheelchair tennis player</div>
+                        </div>
+                    </div>
+
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">17</span>
+                        <a href="/person/?pi=13564486"><b>K. Muraleedharan</b></a> <a title="About K. Muraleedharan" href="/person/?pi=13564486"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=13564486" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/newthumbs/13/56/13564486.jpg')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1957</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>Thrissur</b></span>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />Indian politician</div>
+                        </div>
+                    </div>
+
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">18</span>
+                        <a href="/person/?pi=15109668"><b>Victor Menezes</b></a> <a title="About Victor Menezes" href="/person/?pi=15109668"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=15109668" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/nothumb/?nm=Victor Menezes')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1949</b></span>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />Indian banker</div>
+                        </div>
+                    </div>
+
+                </div>
+                    
+                    <div class="row">
+                    
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">19</span>
+                        <a href="/person/?pi=64011135"><b>Navaskani</b></a> <a title="About Navaskani" href="/person/?pi=64011135"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=64011135" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/newthumbs/64/01/64011135.jpg')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1979</b></span>
+                                
+                                <br />
+                                <img src="/images/location.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:deepskyblue;"><b>Ramanathapuram district</b></span>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />Indian Politician</div>
+                        </div>
+                    </div>
+
+                <div class="col-sm-4">
+                    <div class="panel panel-primary" style="box-shadow: 6px 6px 4px #aaaaaa;">
+                        <div class="panel-heading">         
+                        <h3 class="panel-title"><span class="badge" style="margin-bottom:2px;background-color:#FFD800">20</span>
+                        <a href="/person/?pi=16147521"><b>Vijay J. Darda</b></a> <a title="About Vijay J. Darda" href="/person/?pi=16147521"></a>
+                        </h3>
+                        </div>
+                        <div class="panel-body">
+                        <div class="row">
+                            <div class="col-xs-5"><a href="/person/?pi=16147521" class="img-rounded" style="display:block;padding-bottom:100%;position:relative;overflow:hidden;background-size:cover;background-image:url('/nothumb/?nm=Vijay J. Darda')"></a></div>
+                            <div class="col-xs-7">
+                                <img src="/images/birthday.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />
+                                <span  style="font-size:1.2em;color:brown;"><b>May 14, 1950</b></span>
+                                
+                             </div>
+                        </div>
+                        </div>
+                        <div class="panel-footer"><img src="/images/info.png" style="width:20px;height:20px;margin-bottom:6px;margin-right:4px;" />Member of Parliament</div>
+                        </div>
+                    </div>
+
+            </div>
+            
+          <div class="row">
+          <div class="col-md-12" style="text-align:center;font-weight:bold;">
+                            	[Total 60 People]<br />
+                            	   
+                                    Page: 1 of 3
+                                    
+                                	<a class="btn btn-warning" href="https://www.bornglorious.com/india/birthday/?pd=0514&pg=2"><b>Next &gt;</b></a>
+                                	
+
+          </div>
+      </div>
+      </div>
+      
+
+     </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="row">
+                    <div name="profession" id="profession" class="col-md-3">
+                        <div class="panel panel-primary">
+                  <div class="panel-heading">
+          
+                  <h3 class="panel-title"><b>Birthdays by Profession</b></h3>
+                  </div>
+                  <div class="panel-body">
+                      <ul>
+                          
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=82955&pd=0514">Politician (15)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=33999&pd=0514">Actor (6)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=12299841&pd=0514">Cricketer (5)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=36180&pd=0514">Writer (4)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=11513337&pd=0514">Athletics competitor (3)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=10798782&pd=0514">Television actor (3)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=18581305&pd=0514">Beauty pageant contestant (2)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=806798&pd=0514">Banker (2)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=28389&pd=0514">Screenwriter (2)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=36834&pd=0514">Composer (2)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=49757&pd=0514">Poet (2)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=2526255&pd=0514">Film director (2)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=10843402&pd=0514">Swimmer (1)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=82594&pd=0514">Computer scientist (1)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=1930187&pd=0514">Journalist (1)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=18814798&pd=0514">Wheelchair tennis player (1)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=4220892&pd=0514">Film critic (1)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=2066131&pd=0514">Athlete (1)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=1979607&pd=0514">Financier (1)</a></li>	
+                            
+                                <li><a href="https://www.bornglorious.com/india/birthday/?pf=774306&pd=0514">Surgeon (1)</a></li>	
+                            		               		  		
+		          	        </ul>
+                  </div>
+                  </div>
+                    </div>
+                    <div name="region" id="region" class="col-md-3">
+                        <div class="panel panel-primary">
+                  <div class="panel-heading">
+          
+                  <h3 class="panel-title"><b>Birthdays by Region</b></h3>
+                  </div>
+                  <div class="panel-body">
+                      <ul>
+   		                    
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?ad=1186&pd=0514">Kerala (6)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?ad=1191&pd=0514">Maharashtra (5)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?ad=1159&pd=0514">Andhra Pradesh (5)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?ad=1353&pd=0514">Delhi (4)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?ad=1445&pd=0514">Tamil Nadu (4)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?ad=677037&pd=0514">Telangana (3)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?ad=1185&pd=0514">Karnataka (3)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?ad=1498&pd=0514">Uttar Pradesh (3)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?ad=1061&pd=0514">Gujarat (3)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?ad=22424&pd=0514">Punjab (2)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?ad=1174&pd=0514">Haryana (2)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?ad=1356&pd=0514">West Bengal (2)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?ad=1180&pd=0514">Jammu and Kashmir (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?ad=1437&pd=0514">Rajasthan (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?ad=1188&pd=0514">Madhya Pradesh (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?ad=1171&pd=0514">Goa (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?ad=1193&pd=0514">Manipur (1)</a></li>	
+          	  		        
+		          	        </ul>
+                  </div>
+                  </div>
+                    </div>
+                    <div name="place" id="place" class="col-md-3">
+                        <div class="panel panel-primary">
+                  <div class="panel-heading">
+          
+                  <h3 class="panel-title"><b>Birthdays by Place</b></h3>
+                  </div>
+                  <div class="panel-body">
+                      <ul>
+                        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=1361&pd=0514">Hyderabad (3)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=987&pd=0514">New Delhi (2)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=1156&pd=0514">Mumbai (2)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=1353&pd=0514">Delhi (2)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=1191&pd=0514">Maharashtra (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=1193&pd=0514">Manipur (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=1348&pd=0514">Kolkata (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=200237&pd=0514">Meerut (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=1174&pd=0514">Haryana (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=589185&pd=0514">Arcot (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=429063&pd=0514">Bellary (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=1355&pd=0514">Bangalore (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=7585699&pd=0514">Sreekandapuram (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=3120966&pd=0514">Guntur (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=544279&pd=0514">Rajouri district (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=200123&pd=0514">Ludhiana (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=15191&pd=0514">Ramanathapuram district (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=1352&pd=0514">Chennai (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=162442&pd=0514">Prayagraj (1)</a></li>	
+          	  		        
+          		  		        <li><a href="https://www.bornglorious.com/india/birthday/?pl=66568&pd=0514">Kanpur (1)</a></li>	
+          	  		        
+                        </ul>
+                  </div>
+                  </div>
+                    </div>
+                    <div class="col-md-3">
+                        <div class="panel panel-primary">
+          <div class="panel-heading">
+          
+          <h3 class="panel-title"><b>Birthdays by Months</b></h3>
+          </div>
+          <div class="panel-body">
+              <ul>
+                    <li><a href="https://www.bornglorious.com/india/birthday/?pd=01">January</a></li>
+					<li><a href="https://www.bornglorious.com/india/birthday/?pd=02">February</a></li>
+					<li><a href="https://www.bornglorious.com/india/birthday/?pd=03">March</a></li>
+					<li><a href="https://www.bornglorious.com/india/birthday/?pd=04">April</a></li>
+					<li><a href="https://www.bornglorious.com/india/birthday/?pd=05">May</a></li>
+					<li><a href="https://www.bornglorious.com/india/birthday/?pd=06">June</a></li>
+					<li><a href="https://www.bornglorious.com/india/birthday/?pd=07">July</a></li>
+					<li><a href="https://www.bornglorious.com/india/birthday/?pd=08">August</a></li>
+					<li><a href="https://www.bornglorious.com/india/birthday/?pd=09">September</a></li>
+					<li><a href="https://www.bornglorious.com/india/birthday/?pd=10">October</a></li>
+					<li><a href="https://www.bornglorious.com/india/birthday/?pd=11">November</a></li>
+					<li><a href="https://www.bornglorious.com/india/birthday/?pd=12">December</a></li>
+              </ul>
+              <ul>
+                  <li><a href="https://www.bornglorious.com/india/birthday/?pd=lastmonth">Last Month</a></li>
+                  <li><a href="https://www.bornglorious.com/india/birthday/?pd=thismonth">This Month</a></li>
+                  <li><a href="https://www.bornglorious.com/india/birthday/?pd=nextmonth">Next Month</a></li>
+              </ul>
+          </div>
+          </div>
+                    </div>
+                </div>
+          </div>
+          </div>
+      </div>
+      
+      </div>
+        
+      <footer style="text-align:center;font-size:0.8em;">
+      By BornGlorious.com | Source: Text content from <a target="_blank" href="https://www.wikipedia.org/">Wikipedia</a> licensed under <a href="https://creativecommons.org/licenses/by-sa/2.5/">CC BY-SA</a> | The Individual Information of each person is licensed under <a href="https://creativecommons.org/licenses/by-sa/2.5/">CC BY-SA</a> | Please visit the persons' details page to view the image source and license | Only sequenced listing is the copyright of BornGlorious.com | <a href="/termsofuse/"> Terms of Use </a>|
+    <a href="/contact/">Contact</a>
+</footer>
+
+    </div><!-- /.container -->
+            <!-- Country Modal -->
+<div id="countryModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Select Country</h4>
+      </div>
+      <div class="modal-body">
+          <table class="general-data-table" width="100%">
+    
+            <tr>
+            
+            <td><img style="width:16px;height:11px;" src="/images/flags/world.png" border="0"/><a href="https://www.bornglorious.com/world/birthday/?pd=today">Worldwide</a></td>
+            
+            <td><img src="/images/flags/US.png" border="0"/><a href="https://www.bornglorious.com/united_states/birthday/?pd=today">United States</a></td>
+            
+            <td><img src="/images/flags/GB.png" border="0"/><a href="https://www.bornglorious.com/united_kingdom/birthday/?pd=today">United Kingdom</a></td>
+            
+            <td><img src="/images/flags/DE.png" border="0"/><a href="https://www.bornglorious.com/germany/birthday/?pd=today">Germany</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/FR.png" border="0"/><a href="https://www.bornglorious.com/france/birthday/?pd=today">France</a></td>
+            
+            <td><img src="/images/flags/CA.png" border="0"/><a href="https://www.bornglorious.com/canada/birthday/?pd=today">Canada</a></td>
+            
+            <td><img src="/images/flags/AU.png" border="0"/><a href="https://www.bornglorious.com/australia/birthday/?pd=today">Australia</a></td>
+            
+            <td><img src="/images/flags/IN.png" border="0"/><a href="https://www.bornglorious.com/india/birthday/?pd=today">India</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/IT.png" border="0"/><a href="https://www.bornglorious.com/italy/birthday/?pd=today">Italy</a></td>
+            
+            <td><img src="/images/flags/JP.png" border="0"/><a href="https://www.bornglorious.com/japan/birthday/?pd=today">Japan</a></td>
+            
+            <td><img src="/images/flags/RU.png" border="0"/><a href="https://www.bornglorious.com/russia/birthday/?pd=today">Russia</a></td>
+            
+            <td><img src="/images/flags/ES.png" border="0"/><a href="https://www.bornglorious.com/spain/birthday/?pd=today">Spain</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/PL.png" border="0"/><a href="https://www.bornglorious.com/poland/birthday/?pd=today">Poland</a></td>
+            
+            <td><img src="/images/flags/SE.png" border="0"/><a href="https://www.bornglorious.com/sweden/birthday/?pd=today">Sweden</a></td>
+            
+            <td><img src="/images/flags/NO.png" border="0"/><a href="https://www.bornglorious.com/norway/birthday/?pd=today">Norway</a></td>
+            
+            <td><img src="/images/flags/NZ.png" border="0"/><a href="https://www.bornglorious.com/new_zealand/birthday/?pd=today">New Zealand</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/CN.png" border="0"/><a href="https://www.bornglorious.com/china/birthday/?pd=today">China</a></td>
+            
+            <td><img src="/images/flags/IE.png" border="0"/><a href="https://www.bornglorious.com/ireland/birthday/?pd=today">Ireland</a></td>
+            
+            <td><img src="/images/flags/BR.png" border="0"/><a href="https://www.bornglorious.com/brazil/birthday/?pd=today">Brazil</a></td>
+            
+            <td><img src="/images/flags/NL.png" border="0"/><a href="https://www.bornglorious.com/netherlands/birthday/?pd=today">Netherlands</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/MX.png" border="0"/><a href="https://www.bornglorious.com/mexico/birthday/?pd=today">Mexico</a></td>
+            
+            <td><img src="/images/flags/AR.png" border="0"/><a href="https://www.bornglorious.com/argentina/birthday/?pd=today">Argentina</a></td>
+            
+            <td><img src="/images/flags/AT.png" border="0"/><a href="https://www.bornglorious.com/austria/birthday/?pd=today">Austria</a></td>
+            
+            <td><img src="/images/flags/BE.png" border="0"/><a href="https://www.bornglorious.com/belgium/birthday/?pd=today">Belgium</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/UA.png" border="0"/><a href="https://www.bornglorious.com/ukraine/birthday/?pd=today">Ukraine</a></td>
+            
+            <td><img src="/images/flags/ZA.png" border="0"/><a href="https://www.bornglorious.com/south_africa/birthday/?pd=today">South Africa</a></td>
+            
+            <td><img src="/images/flags/CH.png" border="0"/><a href="https://www.bornglorious.com/switzerland/birthday/?pd=today">Switzerland</a></td>
+            
+            <td><img src="/images/flags/CZ.png" border="0"/><a href="https://www.bornglorious.com/czech_republic/birthday/?pd=today">Czech Republic</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/DK.png" border="0"/><a href="https://www.bornglorious.com/denmark/birthday/?pd=today">Denmark</a></td>
+            
+            <td><img src="/images/flags/HU.png" border="0"/><a href="https://www.bornglorious.com/hungary/birthday/?pd=today">Hungary</a></td>
+            
+            <td><img src="/images/flags/FI.png" border="0"/><a href="https://www.bornglorious.com/finland/birthday/?pd=today">Finland</a></td>
+            
+            <td><img src="/images/flags/KR.png" border="0"/><a href="https://www.bornglorious.com/south_korea/birthday/?pd=today">South Korea</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/TR.png" border="0"/><a href="https://www.bornglorious.com/turkey/birthday/?pd=today">Turkey</a></td>
+            
+            <td><img src="/images/flags/RO.png" border="0"/><a href="https://www.bornglorious.com/romania/birthday/?pd=today">Romania</a></td>
+            
+            <td><img src="/images/flags/IL.png" border="0"/><a href="https://www.bornglorious.com/israel/birthday/?pd=today">Israel</a></td>
+            
+            <td><img src="/images/flags/GR.png" border="0"/><a href="https://www.bornglorious.com/greece/birthday/?pd=today">Greece</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/PK.png" border="0"/><a href="https://www.bornglorious.com/pakistan/birthday/?pd=today">Pakistan</a></td>
+            
+            <td><img src="/images/flags/IR.png" border="0"/><a href="https://www.bornglorious.com/iran/birthday/?pd=today">Iran</a></td>
+            
+            <td><img src="/images/flags/PT.png" border="0"/><a href="https://www.bornglorious.com/portugal/birthday/?pd=today">Portugal</a></td>
+            
+            <td><img src="/images/flags/RS.png" border="0"/><a href="https://www.bornglorious.com/serbia/birthday/?pd=today">Serbia</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/NG.png" border="0"/><a href="https://www.bornglorious.com/nigeria/birthday/?pd=today">Nigeria</a></td>
+            
+            <td><img src="/images/flags/PH.png" border="0"/><a href="https://www.bornglorious.com/philippines/birthday/?pd=today">Philippines</a></td>
+            
+            <td><img src="/images/flags/HR.png" border="0"/><a href="https://www.bornglorious.com/croatia/birthday/?pd=today">Croatia</a></td>
+            
+            <td><img src="/images/flags/BG.png" border="0"/><a href="https://www.bornglorious.com/bulgaria/birthday/?pd=today">Bulgaria</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/EG.png" border="0"/><a href="https://www.bornglorious.com/egypt/birthday/?pd=today">Egypt</a></td>
+            
+            <td><img src="/images/flags/ID.png" border="0"/><a href="https://www.bornglorious.com/indonesia/birthday/?pd=today">Indonesia</a></td>
+            
+            <td><img src="/images/flags/CU.png" border="0"/><a href="https://www.bornglorious.com/cuba/birthday/?pd=today">Cuba</a></td>
+            
+            <td><img src="/images/flags/CO.png" border="0"/><a href="https://www.bornglorious.com/colombia/birthday/?pd=today">Colombia</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/CL.png" border="0"/><a href="https://www.bornglorious.com/chile/birthday/?pd=today">Chile</a></td>
+            
+            <td><img src="/images/flags/SK.png" border="0"/><a href="https://www.bornglorious.com/slovakia/birthday/?pd=today">Slovakia</a></td>
+            
+            <td><img src="/images/flags/BD.png" border="0"/><a href="https://www.bornglorious.com/bangladesh/birthday/?pd=today">Bangladesh</a></td>
+            
+            <td><img src="/images/flags/BY.png" border="0"/><a href="https://www.bornglorious.com/belarus/birthday/?pd=today">Belarus</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/MY.png" border="0"/><a href="https://www.bornglorious.com/malaysia/birthday/?pd=today">Malaysia</a></td>
+            
+            <td><img src="/images/flags/LK.png" border="0"/><a href="https://www.bornglorious.com/sri_lanka/birthday/?pd=today">Sri Lanka</a></td>
+            
+            <td><img src="/images/flags/VE.png" border="0"/><a href="https://www.bornglorious.com/venezuela/birthday/?pd=today">Venezuela</a></td>
+            
+            <td><img src="/images/flags/SI.png" border="0"/><a href="https://www.bornglorious.com/slovenia/birthday/?pd=today">Slovenia</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/TH.png" border="0"/><a href="https://www.bornglorious.com/thailand/birthday/?pd=today">Thailand</a></td>
+            
+            <td><img src="/images/flags/UY.png" border="0"/><a href="https://www.bornglorious.com/uruguay/birthday/?pd=today">Uruguay</a></td>
+            
+            <td><img src="/images/flags/GH.png" border="0"/><a href="https://www.bornglorious.com/ghana/birthday/?pd=today">Ghana</a></td>
+            
+            <td><img src="/images/flags/BA.png" border="0"/><a href="https://www.bornglorious.com/bosnia_and_herzegovina/birthday/?pd=today">Bosnia and Herzegovina</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/LT.png" border="0"/><a href="https://www.bornglorious.com/lithuania/birthday/?pd=today">Lithuania</a></td>
+            
+            <td><img src="/images/flags/AL.png" border="0"/><a href="https://www.bornglorious.com/albania/birthday/?pd=today">Albania</a></td>
+            
+            <td><img src="/images/flags/LV.png" border="0"/><a href="https://www.bornglorious.com/latvia/birthday/?pd=today">Latvia</a></td>
+            
+            <td><img src="/images/flags/JM.png" border="0"/><a href="https://www.bornglorious.com/jamaica/birthday/?pd=today">Jamaica</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/EE.png" border="0"/><a href="https://www.bornglorious.com/estonia/birthday/?pd=today">Estonia</a></td>
+            
+            <td><img src="/images/flags/GE.png" border="0"/><a href="https://www.bornglorious.com/georgia/birthday/?pd=today">Georgia</a></td>
+            
+            <td><img src="/images/flags/DZ.png" border="0"/><a href="https://www.bornglorious.com/algeria/birthday/?pd=today">Algeria</a></td>
+            
+            <td><img src="/images/flags/PE.png" border="0"/><a href="https://www.bornglorious.com/peru/birthday/?pd=today">Peru</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/KE.png" border="0"/><a href="https://www.bornglorious.com/kenya/birthday/?pd=today">Kenya</a></td>
+            
+            <td><img src="/images/flags/MA.png" border="0"/><a href="https://www.bornglorious.com/morocco/birthday/?pd=today">Morocco</a></td>
+            
+            <td><img src="/images/flags/IQ.png" border="0"/><a href="https://www.bornglorious.com/iraq/birthday/?pd=today">Iraq</a></td>
+            
+            <td><img src="/images/flags/SA.png" border="0"/><a href="https://www.bornglorious.com/saudi_arabia/birthday/?pd=today">Saudi Arabia</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/VN.png" border="0"/><a href="https://www.bornglorious.com/vietnam/birthday/?pd=today">Vietnam</a></td>
+            
+            <td><img src="/images/flags/IS.png" border="0"/><a href="https://www.bornglorious.com/iceland/birthday/?pd=today">Iceland</a></td>
+            
+            <td><img src="/images/flags/KZ.png" border="0"/><a href="https://www.bornglorious.com/kazakhstan/birthday/?pd=today">Kazakhstan</a></td>
+            
+            <td><img src="/images/flags/DO.png" border="0"/><a href="https://www.bornglorious.com/dominican_republic/birthday/?pd=today">Dominican Republic</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/LB.png" border="0"/><a href="https://www.bornglorious.com/lebanon/birthday/?pd=today">Lebanon</a></td>
+            
+            <td><img src="/images/flags/AM.png" border="0"/><a href="https://www.bornglorious.com/armenia/birthday/?pd=today">Armenia</a></td>
+            
+            <td><img src="/images/flags/AZ.png" border="0"/><a href="https://www.bornglorious.com/azerbaijan/birthday/?pd=today">Azerbaijan</a></td>
+            
+            <td><img src="/images/flags/SG.png" border="0"/><a href="https://www.bornglorious.com/singapore/birthday/?pd=today">Singapore</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/UG.png" border="0"/><a href="https://www.bornglorious.com/uganda/birthday/?pd=today">Uganda</a></td>
+            
+            <td><img src="/images/flags/ZW.png" border="0"/><a href="https://www.bornglorious.com/zimbabwe/birthday/?pd=today">Zimbabwe</a></td>
+            
+            <td><img src="/images/flags/TN.png" border="0"/><a href="https://www.bornglorious.com/tunisia/birthday/?pd=today">Tunisia</a></td>
+            
+            <td><img src="/images/flags/SY.png" border="0"/><a href="https://www.bornglorious.com/syria/birthday/?pd=today">Syria</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/MD.png" border="0"/><a href="https://www.bornglorious.com/moldova/birthday/?pd=today">Moldova</a></td>
+            
+            <td><img src="/images/flags/MM.png" border="0"/><a href="https://www.bornglorious.com/myanmar/birthday/?pd=today">Myanmar</a></td>
+            
+            <td><img src="/images/flags/MK.png" border="0"/><a href="https://www.bornglorious.com/north_macedonia/birthday/?pd=thisweek">North Macedonia</a></td>
+            
+            <td><img src="/images/flags/AF.png" border="0"/><a href="https://www.bornglorious.com/afghanistan/birthday/?pd=thisweek">Afghanistan</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/CM.png" border="0"/><a href="https://www.bornglorious.com/cameroon/birthday/?pd=thisweek">Cameroon</a></td>
+            
+            <td><img src="/images/flags/PY.png" border="0"/><a href="https://www.bornglorious.com/paraguay/birthday/?pd=thisweek">Paraguay</a></td>
+            
+            <td><img src="/images/flags/EC.png" border="0"/><a href="https://www.bornglorious.com/ecuador/birthday/?pd=thisweek">Ecuador</a></td>
+            
+            <td><img src="/images/flags/NP.png" border="0"/><a href="https://www.bornglorious.com/nepal/birthday/?pd=thisweek">Nepal</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/SN.png" border="0"/><a href="https://www.bornglorious.com/senegal/birthday/?pd=thisweek">Senegal</a></td>
+            
+            <td><img src="/images/flags/ME.png" border="0"/><a href="https://www.bornglorious.com/montenegro/birthday/?pd=thisweek">Montenegro</a></td>
+            
+            <td><img src="/images/flags/LU.png" border="0"/><a href="https://www.bornglorious.com/luxembourg/birthday/?pd=thisweek">Luxembourg</a></td>
+            
+            <td><img src="/images/flags/CD.png" border="0"/><a href="https://www.bornglorious.com/democratic_republic_of_the_congo/birthday/?pd=thisweek">Democratic Republic of the Congo</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/TT.png" border="0"/><a href="https://www.bornglorious.com/trinidad_and_tobago/birthday/?pd=thisweek">Trinidad and Tobago</a></td>
+            
+            <td><img src="/images/flags/CI.png" border="0"/><a href="https://www.bornglorious.com/ivory_coast/birthday/?pd=thisweek">Ivory Coast</a></td>
+            
+            <td><img src="/images/flags/CR.png" border="0"/><a href="https://www.bornglorious.com/costa_rica/birthday/?pd=thisweek">Costa Rica</a></td>
+            
+            <td><img src="/images/flags/CY.png" border="0"/><a href="https://www.bornglorious.com/cyprus/birthday/?pd=thisweek">Cyprus</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/UZ.png" border="0"/><a href="https://www.bornglorious.com/uzbekistan/birthday/?pd=thisweek">Uzbekistan</a></td>
+            
+            <td><img src="/images/flags/HT.png" border="0"/><a href="https://www.bornglorious.com/haiti/birthday/?pd=thisweek">Haiti</a></td>
+            
+            <td><img src="/images/flags/ET.png" border="0"/><a href="https://www.bornglorious.com/ethiopia/birthday/?pd=thisweek">Ethiopia</a></td>
+            
+            <td><img src="/images/flags/BO.png" border="0"/><a href="https://www.bornglorious.com/bolivia/birthday/?pd=thisweek">Bolivia</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/TZ.png" border="0"/><a href="https://www.bornglorious.com/tanzania/birthday/?pd=thisweek">Tanzania</a></td>
+            
+            <td><img src="/images/flags/MT.png" border="0"/><a href="https://www.bornglorious.com/malta/birthday/?pd=thisweek">Malta</a></td>
+            
+            <td><img src="/images/flags/KP.png" border="0"/><a href="https://www.bornglorious.com/north_korea/birthday/?pd=thisweek">North Korea</a></td>
+            
+            <td><img src="/images/flags/AE.png" border="0"/><a href="https://www.bornglorious.com/united_arab_emirates/birthday/?pd=thisweek">United Arab Emirates</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/FJ.png" border="0"/><a href="https://www.bornglorious.com/fiji/birthday/?pd=thisweek">Fiji</a></td>
+            
+            <td><img src="/images/flags/SV.png" border="0"/><a href="https://www.bornglorious.com/el_salvador/birthday/?pd=thisweek">El Salvador</a></td>
+            
+            <td><img src="/images/flags/PA.png" border="0"/><a href="https://www.bornglorious.com/panama/birthday/?pd=thisweek">Panama</a></td>
+            
+            <td><img src="/images/flags/NA.png" border="0"/><a href="https://www.bornglorious.com/namibia/birthday/?pd=thisweek">Namibia</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/GT.png" border="0"/><a href="https://www.bornglorious.com/guatemala/birthday/?pd=thisweek">Guatemala</a></td>
+            
+            <td><img src="/images/flags/ML.png" border="0"/><a href="https://www.bornglorious.com/mali/birthday/?pd=thisweek">Mali</a></td>
+            
+            <td><img src="/images/flags/AO.png" border="0"/><a href="https://www.bornglorious.com/angola/birthday/?pd=thisweek">Angola</a></td>
+            
+            <td><img src="/images/flags/HN.png" border="0"/><a href="https://www.bornglorious.com/honduras/birthday/?pd=thisweek">Honduras</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/ZM.png" border="0"/><a href="https://www.bornglorious.com/zambia/birthday/?pd=thisweek">Zambia</a></td>
+            
+            <td><img src="/images/flags/SO.png" border="0"/><a href="https://www.bornglorious.com/somalia/birthday/?pd=thisweek">Somalia</a></td>
+            
+            <td><img src="/images/flags/JO.png" border="0"/><a href="https://www.bornglorious.com/jordan/birthday/?pd=thisweek">Jordan</a></td>
+            
+            <td><img src="/images/flags/MN.png" border="0"/><a href="https://www.bornglorious.com/mongolia/birthday/?pd=thisweek">Mongolia</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/DM.png" border="0"/><a href="https://www.bornglorious.com/dominica/birthday/?pd=thisweek">Dominica</a></td>
+            
+            <td><img src="/images/flags/KH.png" border="0"/><a href="https://www.bornglorious.com/cambodia/birthday/?pd=thisweek">Cambodia</a></td>
+            
+            <td><img src="/images/flags/QA.png" border="0"/><a href="https://www.bornglorious.com/qatar/birthday/?pd=thisweek">Qatar</a></td>
+            
+            <td><img src="/images/flags/BB.png" border="0"/><a href="https://www.bornglorious.com/barbados/birthday/?pd=thisweek">Barbados</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/XK.png" border="0"/><a href="https://www.bornglorious.com/kosovo/birthday/?pd=thisweek">Kosovo</a></td>
+            
+            <td><img src="/images/flags/KW.png" border="0"/><a href="https://www.bornglorious.com/kuwait/birthday/?pd=thisweek">Kuwait</a></td>
+            
+            <td><img src="/images/flags/CG.png" border="0"/><a href="https://www.bornglorious.com/republic_of_the_congo/birthday/?pd=thisweek">Republic of the Congo</a></td>
+            
+            <td><img src="/images/flags/SL.png" border="0"/><a href="https://www.bornglorious.com/sierra_leone/birthday/?pd=thisweek">Sierra Leone</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/GY.png" border="0"/><a href="https://www.bornglorious.com/guyana/birthday/?pd=thisweek">Guyana</a></td>
+            
+            <td><img src="/images/flags/MG.png" border="0"/><a href="https://www.bornglorious.com/madagascar/birthday/?pd=thisweek">Madagascar</a></td>
+            
+            <td><img src="/images/flags/LY.png" border="0"/><a href="https://www.bornglorious.com/libya/birthday/?pd=thisweek">Libya</a></td>
+            
+            <td><img src="/images/flags/YE.png" border="0"/><a href="https://www.bornglorious.com/yemen/birthday/?pd=thisweek">Yemen</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/KG.png" border="0"/><a href="https://www.bornglorious.com/kyrgyzstan/birthday/?pd=thisweek">Kyrgyzstan</a></td>
+            
+            <td><img src="/images/flags/LR.png" border="0"/><a href="https://www.bornglorious.com/liberia/birthday/?pd=thisweek">Liberia</a></td>
+            
+            <td><img src="/images/flags/NI.png" border="0"/><a href="https://www.bornglorious.com/nicaragua/birthday/?pd=thisweek">Nicaragua</a></td>
+            
+            <td><img src="/images/flags/BS.png" border="0"/><a href="https://www.bornglorious.com/bahamas/birthday/?pd=thisweek">Bahamas</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/TO.png" border="0"/><a href="https://www.bornglorious.com/tonga/birthday/?pd=thisweek">Tonga</a></td>
+            
+            <td><img src="/images/flags/PG.png" border="0"/><a href="https://www.bornglorious.com/papua_new_guinea/birthday/?pd=thisweek">Papua New Guinea</a></td>
+            
+            <td><img src="/images/flags/BH.png" border="0"/><a href="https://www.bornglorious.com/bahrain/birthday/?pd=thisweek">Bahrain</a></td>
+            
+            <td><img src="/images/flags/SR.png" border="0"/><a href="https://www.bornglorious.com/suriname/birthday/?pd=thisweek">Suriname</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/GN.png" border="0"/><a href="https://www.bornglorious.com/guinea/birthday/?pd=thisweek">Guinea</a></td>
+            
+            <td><img src="/images/flags/TJ.png" border="0"/><a href="https://www.bornglorious.com/tajikistan/birthday/?pd=thisweek">Tajikistan</a></td>
+            
+            <td><img src="/images/flags/SD.png" border="0"/><a href="https://www.bornglorious.com/sudan/birthday/?pd=thisweek">Sudan</a></td>
+            
+            <td><img src="/images/flags/WS.png" border="0"/><a href="https://www.bornglorious.com/samoa/birthday/?pd=thisweek">Samoa</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/CV.png" border="0"/><a href="https://www.bornglorious.com/cape_verde/birthday/?pd=thisweek">Cape Verde</a></td>
+            
+            <td><img src="/images/flags/MZ.png" border="0"/><a href="https://www.bornglorious.com/mozambique/birthday/?pd=thisweek">Mozambique</a></td>
+            
+            <td><img src="/images/flags/BJ.png" border="0"/><a href="https://www.bornglorious.com/benin/birthday/?pd=thisweek">Benin</a></td>
+            
+            <td><img src="/images/flags/MU.png" border="0"/><a href="https://www.bornglorious.com/mauritius/birthday/?pd=thisweek">Mauritius</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/RW.png" border="0"/><a href="https://www.bornglorious.com/rwanda/birthday/?pd=thisweek">Rwanda</a></td>
+            
+            <td><img src="/images/flags/MW.png" border="0"/><a href="https://www.bornglorious.com/malawi/birthday/?pd=thisweek">Malawi</a></td>
+            
+            <td><img src="/images/flags/MC.png" border="0"/><a href="https://www.bornglorious.com/monaco/birthday/?pd=thisweek">Monaco</a></td>
+            
+            <td><img src="/images/flags/BW.png" border="0"/><a href="https://www.bornglorious.com/botswana/birthday/?pd=thisweek">Botswana</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/TM.png" border="0"/><a href="https://www.bornglorious.com/turkmenistan/birthday/?pd=thisweek">Turkmenistan</a></td>
+            
+            <td><img src="/images/flags/GM.png" border="0"/><a href="https://www.bornglorious.com/gambia/birthday/?pd=thisweek">Gambia</a></td>
+            
+            <td><img src="/images/flags/TG.png" border="0"/><a href="https://www.bornglorious.com/togo/birthday/?pd=thisweek">Togo</a></td>
+            
+            <td><img src="/images/flags/GA.png" border="0"/><a href="https://www.bornglorious.com/gabon/birthday/?pd=thismonth">Gabon</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/SM.png" border="0"/><a href="https://www.bornglorious.com/san_marino/birthday/?pd=thismonth">San Marino</a></td>
+            
+            <td><img src="/images/flags/AG.png" border="0"/><a href="https://www.bornglorious.com/antigua_and_barbuda/birthday/?pd=thismonth">Antigua and Barbuda</a></td>
+            
+            <td><img src="/images/flags/LI.png" border="0"/><a href="https://www.bornglorious.com/liechtenstein/birthday/?pd=thismonth">Liechtenstein</a></td>
+            
+            <td><img src="/images/flags/ER.png" border="0"/><a href="https://www.bornglorious.com/eritrea/birthday/?pd=thismonth">Eritrea</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/AD.png" border="0"/><a href="https://www.bornglorious.com/andorra/birthday/?pd=thismonth">Andorra</a></td>
+            
+            <td><img src="/images/flags/LA.png" border="0"/><a href="https://www.bornglorious.com/laos/birthday/?pd=thismonth">Laos</a></td>
+            
+            <td><img src="/images/flags/GW.png" border="0"/><a href="https://www.bornglorious.com/guinea-bissau/birthday/?pd=thismonth">Guinea-Bissau</a></td>
+            
+            <td><img src="/images/flags/GD.png" border="0"/><a href="https://www.bornglorious.com/grenada/birthday/?pd=thismonth">Grenada</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/BZ.png" border="0"/><a href="https://www.bornglorious.com/belize/birthday/?pd=thismonth">Belize</a></td>
+            
+            <td><img src="/images/flags/OM.png" border="0"/><a href="https://www.bornglorious.com/oman/birthday/?pd=thismonth">Oman</a></td>
+            
+            <td><img src="/images/flags/NE.png" border="0"/><a href="https://www.bornglorious.com/niger/birthday/?pd=thismonth">Niger</a></td>
+            
+            <td><img src="/images/flags/LC.png" border="0"/><a href="https://www.bornglorious.com/saint_lucia/birthday/?pd=thismonth">Saint Lucia</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/GQ.png" border="0"/><a href="https://www.bornglorious.com/equatorial_guinea/birthday/?pd=thismonth">Equatorial Guinea</a></td>
+            
+            <td><img src="/images/flags/TD.png" border="0"/><a href="https://www.bornglorious.com/chad/birthday/?pd=thismonth">Chad</a></td>
+            
+            <td><img src="/images/flags/KN.png" border="0"/><a href="https://www.bornglorious.com/saint_kitts_and_nevis/birthday/?pd=thismonth">Saint Kitts and Nevis</a></td>
+            
+            <td><img src="/images/flags/BI.png" border="0"/><a href="https://www.bornglorious.com/burundi/birthday/?pd=thismonth">Burundi</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/MV.png" border="0"/><a href="https://www.bornglorious.com/maldives/birthday/?pd=thismonth">Maldives</a></td>
+            
+            <td><img src="/images/flags/CF.png" border="0"/><a href="https://www.bornglorious.com/central_african_republic/birthday/?pd=thismonth">Central African Republic</a></td>
+            
+            <td><img src="/images/flags/SB.png" border="0"/><a href="https://www.bornglorious.com/solomon_islands/birthday/?pd=thismonth">Solomon Islands</a></td>
+            
+            <td><img src="/images/flags/LS.png" border="0"/><a href="https://www.bornglorious.com/lesotho/birthday/?pd=thismonth">Lesotho</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/BN.png" border="0"/><a href="https://www.bornglorious.com/brunei/birthday/?pd=thismonth">Brunei</a></td>
+            
+            <td><img src="/images/flags/MR.png" border="0"/><a href="https://www.bornglorious.com/mauritania/birthday/?pd=thismonth">Mauritania</a></td>
+            
+            <td><img src="/images/flags/SC.png" border="0"/><a href="https://www.bornglorious.com/seychelles/birthday/?pd=thismonth">Seychelles</a></td>
+            
+            <td><img src="/images/flags/VC.png" border="0"/><a href="https://www.bornglorious.com/saint_vincent_and_the_grenadines/birthday/?pd=thismonth">Saint Vincent and the Grenadines</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/BT.png" border="0"/><a href="https://www.bornglorious.com/bhutan/birthday/?pd=thismonth">Bhutan</a></td>
+            
+            <td><img src="/images/flags/SZ.png" border="0"/><a href="https://www.bornglorious.com/eswatini/birthday/?pd=thismonth">Eswatini</a></td>
+            
+            <td><img src="/images/flags/VU.png" border="0"/><a href="https://www.bornglorious.com/vanuatu/birthday/?pd=thismonth">Vanuatu</a></td>
+            
+            <td><img src="/images/flags/TL.png" border="0"/><a href="https://www.bornglorious.com/east_timor/birthday/?pd=thismonth">East Timor</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/SS.png" border="0"/><a href="https://www.bornglorious.com/south_sudan/birthday/?pd=thismonth">South Sudan</a></td>
+            
+            <td><img src="/images/flags/ST.png" border="0"/><a href="https://www.bornglorious.com/sã£o_tomã©_and_prã­ncipe/birthday/?pd=thismonth">SÃ£o TomÃ© and PrÃ­ncipe</a></td>
+            
+            <td><img src="/images/flags/KM.png" border="0"/><a href="https://www.bornglorious.com/comoros/birthday/?pd=thismonth">Comoros</a></td>
+            
+            <td><img src="/images/flags/DJ.png" border="0"/><a href="https://www.bornglorious.com/djibouti/birthday/?pd=thismonth">Djibouti</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/TV.png" border="0"/><a href="https://www.bornglorious.com/tuvalu/birthday/?pd=thismonth">Tuvalu</a></td>
+            
+            <td><img src="/images/flags/NR.png" border="0"/><a href="https://www.bornglorious.com/nauru/birthday/?pd=thismonth">Nauru</a></td>
+            
+            <td><img src="/images/flags/KI.png" border="0"/><a href="https://www.bornglorious.com/kiribati/birthday/?pd=thismonth">Kiribati</a></td>
+            
+            <td><img src="/images/flags/CK.png" border="0"/><a href="https://www.bornglorious.com/cook_islands/birthday/?pd=thismonth">Cook Islands</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/PW.png" border="0"/><a href="https://www.bornglorious.com/palau/birthday/?pd=thismonth">Palau</a></td>
+            
+            <td><img src="/images/flags/FM.png" border="0"/><a href="https://www.bornglorious.com/federated_states_of_micronesia/birthday/?pd=thismonth">Federated States of Micronesia</a></td>
+            
+            <td><img src="/images/flags/MH.png" border="0"/><a href="https://www.bornglorious.com/marshall_islands/birthday/?pd=thismonth">Marshall Islands</a></td>
+            
+            <td><img src="/images/flags/NU.png" border="0"/><a href="https://www.bornglorious.com/niue/birthday/?pd=thismonth">Niue</a></td>
+            
+            </tr>
+            
+            <tr>
+            
+            <td><img src="/images/flags/MP.png" border="0"/><a href="https://www.bornglorious.com/northern_mariana_islands/birthday/?pd=thismonth">Northern Mariana Islands</a></td>
+            
+    </table>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- datepicker script starts here-->
+<!-- Date Picker Modal -->
+<div id="datePickerModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Select Day/ Week / Month</h4>
+      </div>
+      <div class="modal-body">
+        <ul class="nav nav-tabs">
+          <li class="active"><a data-toggle="tab" href="#dayTab">Day</a></li>
+          <li><a data-toggle="tab" href="#weekTab">Week</a></li>
+          <li><a data-toggle="tab" href="#monthTab">Month</a></li>
+        </ul>
+
+        <div class="tab-content">
+          <div id="dayTab" class="tab-pane fade in active">
+            <h3>Day</h3>
+            <a href="https://www.bornglorious.com/india/birthday/?pd=yesterday">Yesterday</a> | <a href="https://www.bornglorious.com/india/birthday/?pd=today">Today</a> | <a href="https://www.bornglorious.com/india/birthday/?pd=tomorrow">Tomorrow</a><br>
+            <div id="daypicker"></div>
+          </div>
+          <div id="weekTab" class="tab-pane fade">
+            <h3>Week</h3>
+            <a href="https://www.bornglorious.com/india/birthday/?pd=lastweek">Last Week</a> | <a href="https://www.bornglorious.com/india/birthday/?pd=thisweek">This Week</a> | <a href="https://www.bornglorious.com/india/birthday/?pd=nextweek">Next Week</a><br>
+            <div id="weekpicker"></div>
+          </div>
+          <div id="monthTab" class="tab-pane fade">
+            <h3>Month</h3>
+            <div>
+                        <a href="https://www.bornglorious.com/india/birthday/?pd=lastmonth">Last Month</a> | <a href="https://www.bornglorious.com/india/birthday/?pd=thismonth">This Month</a> | <a href="https://www.bornglorious.com/india/birthday/?pd=nextmonth">Next Month</a><br>
+    					<table class="table table-striped" style="width:100%;" >
+						<tr>
+							<td><a href="https://www.bornglorious.com/india/birthday/?pd=01">January</a></td>
+							<td><a href="https://www.bornglorious.com/india/birthday/?pd=02">February</a></td>
+							<td><a href="https://www.bornglorious.com/india/birthday/?pd=03">March</a></td>
+							<td><a href="https://www.bornglorious.com/india/birthday/?pd=04">April</a></td>
+						</tr>
+						<tr>
+							<td><a href="https://www.bornglorious.com/india/birthday/?pd=05">May</a></td>
+							<td><a href="https://www.bornglorious.com/india/birthday/?pd=06">June</a></td>
+							<td><a href="https://www.bornglorious.com/india/birthday/?pd=07">July</a></td>
+							<td><a href="https://www.bornglorious.com/india/birthday/?pd=08">August</a></td>
+						</tr>
+						<tr>
+							<td><a href="https://www.bornglorious.com/india/birthday/?pd=09">September</a></td>
+							<td><a href="https://www.bornglorious.com/india/birthday/?pd=10">October</a></td>
+							<td><a href="https://www.bornglorious.com/india/birthday/?pd=11">November</a></td>
+							<td><a href="https://www.bornglorious.com/india/birthday/?pd=12">December</a></td>
+						</tr>
+                        </table>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- datepicker script ends here -->
+    
+    
+    
+    <script type="text/javascript">
+
+    function sortSelected(sel) {
+        var chosenoption = sel.options[sel.selectedIndex];
+        //Redirect code
+        var url = window.location.toString();
+        url = url.substring(0, url.indexOf('?'));
+        url = url + '?';
+        var urlParams = getURLParams();
+        var newsr = chosenoption.value;
+        var i = 0, pd = true, para, isSRexist = false;
+        for (q in urlParams) {
+            if (q != 'pg') {
+                if (q == 'sr') {
+                    para = newsr;
+                    isSRexist = true;
+                }
+                else
+                    para = urlParams[q];
+                if (!(q == 'sr' && newsr == 'pp')) {
+                    if (i == 0)
+                        url = url + q + '=' + para;
+                    else
+                        url = url + '&' + q + '=' + para;
+                }
+                i++;
+            }
+        }
+        if (isSRexist == false && newsr != 'pp') {
+            if (i == 0)
+                url = url + 'sr=' + newsr;
+            else
+                url = url + '&sr=' + newsr;
+        }
+        window.location = url;
+    }
+    $(function () {
+        var cache = {},
+            lastXhr;
+        $("#psearch").autocomplete({
+            minLength: 1,
+            source: function (request, response) {
+                var term = request.term;
+                if (term in cache) {
+                    response(cache[term]);
+                    return;
+                }
+
+                lastXhr = $.getJSON("/newversion/person/search/?ct=668", request, function (data, status, xhr) {
+                    cache[term] = data;
+                    if (xhr === lastXhr) {
+                        response(data);
+                    }
+                    else {
+                        response(null);
+                    }
+                });
+            },
+            select: function (event, ui) {
+                window.location.href = "/person/?pi=" + ui.item.id;
+            }
+        });
+    });
+	</script>
+<script type="text/javascript">
+    $("#daypicker").datepicker({
+        yearRange: "2021:2121",
+        onSelect: function (dateText, inst) {
+            var url = window.location.toString();
+            url = url.substring(0, url.indexOf('?'));
+            url = url + '?';
+            var urlParams = getURLParams();
+            var newpd = dateText;
+            newpd = newpd.substring(0, 2) + newpd.substring(3, 5);
+
+            var i = 0, pd = true, para, isPDexist = false;
+            for (q in urlParams) {
+                if (q != 'pg') {
+                    if (q == 'pd') {
+                        para = newpd;
+                        isPDexist = true;
+                    }
+                    else
+                        para = urlParams[q];
+
+                    if (i == 0)
+                        url = url + q + '=' + para;
+                    else
+                        url = url + '&' + q + '=' + para;
+                    i++;
+                }
+            }
+            if (isPDexist == false) {
+                if (i == 0)
+                    url = url + 'pd=' + newpd;
+                else
+                    url = url + '&pd=' + newpd;
+            }
+            window.location = url;
+            $('#datePickerModal').modal('toggle');
+        }
+    });
+
+    function getURLParams() {
+        var urlParams = {};
+        (function () {
+            var match,
+                pl = /\+/g,  // Regex for replacing addition symbol with a space
+                search = /([^&=]+)=?([^&]*)/g,
+                decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+                query = window.location.search.substring(1);
+
+            while (match = search.exec(query))
+                urlParams[decode(match[1])] = decode(match[2]);
+        })();
+        return urlParams;
+    }
+</script>
+<script type="text/javascript">
+    $(function () {
+        var startDate;
+        var endDate;
+
+        var selectCurrentWeek = function () {
+            window.setTimeout(function () {
+                $('#weekpicker').find('.ui-datepicker-current-day a').addClass('ui-state-active')
+            }, 1);
+        }
+
+        $('#weekpicker').datepicker({
+            showOtherMonths: true,
+            selectOtherMonths: true,
+            onSelect: function (dateText, inst) {
+                var date = $(this).datepicker('getDate');
+                startDate = new Date(date.getFullYear(), date.getMonth(), date.getDate() - date.getDay());
+                endDate = new Date(date.getFullYear(), date.getMonth(), date.getDate() - date.getDay() + 6);
+                var dateFormat = inst.settings.dateFormat || $.datepicker._defaults.dateFormat;
+                startDate = String((startDate.getMonth() + 1) * 100 + startDate.getDate());
+                endDate = String((endDate.getMonth() + 1) * 100 + endDate.getDate());
+                if (startDate.length == 3)
+                    startDate = '0' + startDate;
+                if (endDate.length == 3)
+                    endDate = '0' + endDate;
+                selectCurrentWeek();
+
+                //Redirect code
+                var url = window.location.toString();
+                url = url.substring(0, url.indexOf('?'));
+                url = url + '?';
+                var urlParams = getURLParams();
+                var newpd = startDate + '-' + endDate;
+                var i = 0, pd = true, para, isPDexist = false;
+                for (q in urlParams) {
+                    if (q != 'pg') {
+                        if (q == 'pd') {
+                            para = newpd;
+                            isPDexist = true;
+                        }
+                        else
+                            para = urlParams[q];
+
+                        if (i == 0)
+                            url = url + q + '=' + para;
+                        else
+                            url = url + '&' + q + '=' + para;
+                        i++;
+                    }
+                }
+                if (isPDexist == false) {
+                    if (i == 0)
+                        url = url + 'pd=' + newpd;
+                    else
+                        url = url + '&pd=' + newpd;
+                }
+                window.location = url;
+                $('#datePickerModal').modal('toggle');
+            },
+            beforeShowDay: function (date) {
+                var cssClass = '';
+                if (date >= startDate && date <= endDate)
+                    cssClass = 'ui-datepicker-current-day';
+                return [true, cssClass];
+            },
+            onChangeMonthYear: function (year, month, inst) {
+                selectCurrentWeek();
+            }
+        });
+
+        $('#weekpicker').on('mousemove', '.ui-datepicker-calendar tr', function () { $(this).find('td a').addClass('ui-state-hover'); });
+        $('#weekpicker').on('mouseleave', '.ui-datepicker-calendar tr', function () { $(this).find('td a').removeClass('ui-state-hover'); });
+    });
+</script>
+
+<!-- Ad Dialog-->
+<div id="adDialog" class="modal fade" role="dialog" style="z-index:99999;">
+  <div class="modal-dialog">
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">📈 Email Marketing to Grow Your Business!</h4>
+      </div>
+      <div class="modal-body" style="text-align:center;">
+          <a id="bodyLink" rel="nofollow" target="_blank" href="https://www.getresponse.com/features/email-marketing?a=Mq7FRGGcrJ&c=bg_dialog">
+          <img src="https://affiliates.getresponse.com/material/view/221/Mq7FRGGcrJ" alt="Ultimate Lead Gen" /></a>
+      </div>
+      <div class="modal-footer">
+        <a rel="nofollow" target="_blank" href="https://www.getresponse.com/features/email-marketing?a=Mq7FRGGcrJ&c=bg_dialog"><span style="font-size:1.2em;font-weight:bold;">More Customers, More Clients, More Sales, More Profit</span></a>&nbsp;&nbsp;<a id="buttonLink" rel="nofollow" target="_blank" href="https://www.getresponse.com/features/email-marketing?a=Mq7FRGGcrJ&c=bg_dialog" role="button"  class="btn btn-primary">Learn More</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Ad Dialog-->
+
+<script type="text/javascript">
+        $('#buttonLink').on('click',
+            function (e) {
+                gtag('event', 'buttonLinkClick', { 'event_category': 'AdDialog' });
+            }
+        );
+        $('#bodyLink').on('click',
+            function (e) {
+                gtag('event', 'bodyLinkClick', { 'event_category': 'AdDialog' });
+            }
+    );
+    /*
+    setTimeout(function () {
+        $('#adDialog').modal();
+        setInterval(function () { $('#adDialog').modal(); }, 180000);
+    },90000);
+    */
+        //setInterval(showNotification, 30000);
+
+        function showNotification() {
+            var adimgs = [621, 615, 565, 564, 558, 552, 513, 469, 248, 244, 225, 221, 217, 213, 210, 206, 199, 195];        
+        $.notify({
+            // options
+            icon: '',
+            //icon: 'https://affiliates.getresponse.com/material/view/' + adimgs[Math.floor((Math.random() * 18))] + '/Mq7FRGGcrJ',
+            title: '<b style="font-size:1.5em;">📧 Email Marketing</b><br>',
+            message: '📈 To Grow Your Business and Generate More Profit 💰<br>👉 Click Here Now for 30 Days FREE Trial!',
+            url: 'https://www.getresponse.com/features/email-marketing?a=Mq7FRGGcrJ&c=bg_pop_not',
+            target: '_blank'
+        }, { delay: 5000, allow_dismiss: false, placement: { from: 'bottom' } });
+       }
+</script>
+
+    <script type="application/javascript" src="https://sdki.truepush.com/sdk/v2.0.2/app.js" async></script>
+    <script>
+        var truepush = window.truepush || [];
+
+        truepush.push(function () {
+            truepush.Init({
+                id: "5f17ba2684f08f2e15f5c9de"
+            }, function (error) {
+                if (error) console.error(error);
+            })
+        })
+    </script>
+</body>
+</html>

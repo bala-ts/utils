@@ -3,4 +3,13 @@
   <groupId>utils</groupId>
   <artifactId>utils</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+
+	<dependencies>
+		<dependency>
+		    <groupId>org.jsoup</groupId>
+		    <artifactId>jsoup</artifactId>
+		    <version>1.15.4</version>
+		</dependency>
+	</dependencies>
+
 </project>
