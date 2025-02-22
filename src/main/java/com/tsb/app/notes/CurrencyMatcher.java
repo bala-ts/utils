@@ -20,11 +20,11 @@ public class CurrencyMatcher {
 	public static void main(String s[]) {
 
 		CurrencyMatcher cm = new CurrencyMatcher();
-		//cm.match();
+//		cm.match();
 		//cm.match("080180");
 //		cm.sort();
-//		cm.searchddmm();
-		cm.searchmmdd();
+		cm.searchddmm();
+//		cm.searchmmdd();
 	}
 	
 	private void searchddmm() {
